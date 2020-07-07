@@ -1,0 +1,7 @@
+Tabu oyunu yazıyoruz.
+Kurallar: 
+En üstte yazan kelimeyi anlat
+Ancak altındaki kelimeleri kullanamazsın
+Belirli süre içerisinde en çok anlatan takım kazanır.
+
+
